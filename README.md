@@ -9,7 +9,7 @@
 **Systems & Computing Engineer** │ **AI/Blockchain Lead** │ **Bilingual (EN/CN)**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/🎓-B.Sc. Systems&Computing-blue" alt="Degree" />
+  <img src="https://img.shields.io/badge/🎓-B.Sc. Systems%20&%20Computing%20engineering-blue" alt="Degree" />
   <img src="https://img.shields.io/badge/🧪-Thesis%20Biotech%2FBlockchain-blueviolet" alt="Thesis" />
   <img src="https://img.shields.io/badge/🗣️-EN%20(C1)%20|%20ES%20(native)%20|%20CN%20(A2)-lightgrey" alt="Languages" />
 </p>
