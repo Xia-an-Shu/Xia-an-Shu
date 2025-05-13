@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUser&color=blue" alt="Profile views" />
-  <a href="https://github.com/YourUser?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/YourUser?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=xia-an-Shu&color=blue" alt="Profile views" />
+  <a href="https://github.com/xia-an-Shu?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/xia-an-Shu?style=social" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/🎓-B.Sc. Systems&Computing-blue" alt="Degree" />
-  <img src="https://img.shields.io/badge/🧪-Thesis-Biotech%2FBlockchain-blueviolet" alt="Thesis" />
+  <img src="https://img.shields.io/badge/🧪-Thesis%20Biotech%2FBlockchain-blueviolet" alt="Thesis" />
   <img src="https://img.shields.io/badge/🗣️-EN%20(C1)%20|%20ES%20(native)%20|%20CN%20(A2)-lightgrey" alt="Languages" />
 </p>
 
