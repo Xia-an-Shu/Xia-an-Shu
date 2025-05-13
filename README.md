@@ -15,10 +15,9 @@
 </p>
 
 ## 🚀 What I Do
-- Led a team of **5** to build the company’s first **LLM API** with FastAPI + VLLM quantization (cut inference costs 3×) :contentReference[oaicite:2]{index=2}.  
+- Led a team of **5** to build the company’s first **LLM API** with FastAPI + VLLM quantization (cut inference costs 3×).  
 - Architected **cross-border payments** via private blockchain networks for senior thesis in finance & security.  
 - Automated **academic workflows** (Excel VBA) boosting efficiency from **3 days** to **1 minute**—zero errors.  
-- Delivered **CI/CD pipelines** and **AWS**/GCP infra, ensuring 99.9% uptime for data & AI services.  
 
 ## 🛠 Tech Stack
 <p>
