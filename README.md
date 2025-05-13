@@ -29,7 +29,7 @@
   <img alt="AWS"       src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/amazonaws.svg" height="30"/>
   <img alt="Blockchain"src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/ethereum.svg"  height="30"/>
   <!-- add others… -->
-</p>                              |                                                        |           |                                              |
+</p>
 
 ## 📫 Contact
 - 📧 [koren.yin@outlook.es](mailto:koren.yin@outlook.es)  
