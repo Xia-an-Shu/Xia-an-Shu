@@ -6,7 +6,7 @@
 </p>
 
 # 👋 Hi, I’m Ronald Pardo  
-**Systems & Computing Engineer** │ **AI/Blockchain Lead** │ **Bilingual (EN/CN)**
+**Systems & Computing Engineer** │ **AI/Blockchain Lead** │ **Trilingual (EN/ES/CN)**
 
 <p align="left">
   <img src="https://img.shields.io/badge/🎓-B.Sc. Systems%20&%20Computing%20engineering%20@%20Uniandes-blackyellow" alt="Degree" />
